@@ -16,9 +16,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
 
-const accountSid = 'AC42b8aed93d4482bf9542ebeabc31a36e';
-const authToken = 'b4e6c1ed8eeb14777020387d44512eed';
-const twilioPhoneNumber = '+14155238886';
+const accountSid = 'YOUR ID';
+const authToken = 'YOUR ID';
+const twilioPhoneNumber = 'TWILIO NUMBER';
 // Twilio configuration
 ;
 const twilioClient = twilio(accountSid, authToken);
