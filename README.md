@@ -20,4 +20,4 @@ Before running the application, ensure that you have the following:
 
 
 
-![WhatsApp Image 2024-02-12 at 22 59 56_8910a3f3](https://github.com/SHIRISH-30/Message-Scheduler-Twilio/assets/102011980/e8496ba1-6715-43a7-a3fd-829e59cc6234)
+![WhatsApp Image 2024-02-12 at 23 06 53_9f9a064f](https://github.com/SHIRISH-30/Message-Scheduler-Twilio/assets/102011980/08427868-f6b0-48fe-810c-c69b33620059)
