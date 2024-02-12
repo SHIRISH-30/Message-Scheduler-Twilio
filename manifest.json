@@ -1,0 +1,11 @@
+{
+    "name": "Schedule message",
+    "version": "1.0.0",
+    "description": "This is an extension to  schedule message",
+    "manifest_version": 3,
+    "author": "Shirish Shetty",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming Toronto Concerts"
+    }
+}
